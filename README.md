@@ -1,5 +1,5 @@
 # Risk-prediction
-**Rationale
+*Rationale*
 
 Many studies have found that eye movement behavior provides a real-time index of the mental activity. Risk management architectures embedded in autonomous vehicles fail to include human cognitive aspects. I set out to evaluate whether eye movements during a risk driving detection task are able to predict risk situations.
 
