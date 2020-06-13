@@ -1,7 +1,7 @@
 # Risk-prediction
 *Rationale*
 
-Many studies have found that eye movement behavior provides a real-time index of the mental activity. Risk management architectures embedded in autonomous vehicles fail to include human cognitive aspects. I set out to evaluate whether eye movements are able to predict risk situations.during a risk detection task while watching driving videos. I created predictive models in Python using logistic regressions and feed-forward neural networks.
+Many studies have found that eye movement behavior provides a real-time index of the mental activity. Risk management architectures embedded in autonomous vehicles fail to include human cognitive aspects. I set out to evaluate whether eye movements are able to predict risk situations during a risk detection task while watching driving videos. I created predictive models in Python using logistic regressions and feed-forward neural networks.
 
 I am using a dataset where thirty-two normally sighted subjects (15 female) saw 20 clips of recorded driving scenes while their gaze was tracked. They reported when they considered the car should brake anticipating any hazard. I applied both a mixed-effect logistic regression model and feedforward neural networks between hazard reports and eye movement descriptors. 
 
